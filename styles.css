@@ -835,3 +835,6 @@ footer strong {
   text-decoration: underline;
   text-underline-offset: 3px;
 }
+
+/* Submission-ready bottom navigation */
+.bottom-nav { justify-content: flex-end; }
