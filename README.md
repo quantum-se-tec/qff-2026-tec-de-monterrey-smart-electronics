@@ -21,3 +21,19 @@ The event is organized through Smart Electronics, IEEE Communications Society, I
 - `index.html` contains the website structure and content.
 - `styles.css` contains the website presentation and responsive layout.
 - `assets/` contains static website assets.
+
+
+## Program locations
+
+- November 3: Biblioteca BI14-BI15
+- November 4–6: Sala de Congresos, 2nd floor — Salas Ejecutivas 1, 2 & 3
+- November 7: Centro de Congresos, Tecnológico de Monterrey
+
+The Saturday Quantum Computing and Technology Symposium is scheduled from 12:00 PM to 6:30 PM, with Qiskit Fall Fest hackathon project presentations planned for around 10:00 AM.
+
+## Pending organizer logo assets
+
+The organizer layout is prepared for the following filenames when the corresponding logos are available:
+
+- `assets/logos/qcc.png`
+- `assets/logos/ieee-student-branch.png`

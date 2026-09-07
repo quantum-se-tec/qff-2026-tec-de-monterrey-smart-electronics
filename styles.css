@@ -819,3 +819,19 @@ footer strong {
     overflow-x: visible;
   }
 }
+
+
+/* Confirmed venue details in the program */
+.venue-note {
+  display: block;
+  margin-top: 7px;
+  font-weight: 500;
+  opacity: .92;
+}
+
+.contact-card a {
+  color: inherit;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
