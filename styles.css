@@ -849,3 +849,21 @@ footer strong {
 .hero .meta-block strong.saturday-showcase {
   margin-top: 2px;
 }
+
+
+/* Final contact section */
+#contact .body-copy {
+  max-width: 760px;
+}
+
+#contact a {
+  color: inherit;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* Bottom navigation */
+.bottom-nav {
+  justify-content: flex-end;
+}
