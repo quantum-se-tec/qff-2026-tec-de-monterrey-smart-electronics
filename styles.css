@@ -838,3 +838,14 @@ footer strong {
 
 /* Submission-ready bottom navigation */
 .bottom-nav { justify-content: flex-end; }
+
+/* Secondary Saturday timing in the hero */
+.hero .meta-block .saturday-showcase {
+  display: block;
+}
+.hero .meta-block .meta-label.saturday-showcase {
+  margin-top: 10px;
+}
+.hero .meta-block strong.saturday-showcase {
+  margin-top: 2px;
+}
