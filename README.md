@@ -6,7 +6,7 @@ Website for the Qiskit Fall Fest 2026 event hosted at Tecnológico de Monterrey 
 
 - Event dates: November 3–7, 2026
 - Tuesday–Friday sessions: 11:00 AM–2:00 PM (CST, UTC−6)
-- Saturday program: 10:00 AM–6:30 PM
+- Saturday program: 10:00 AM–6:30 PM (CST, UTC−6)
 - Format: In person
 - Location: Tecnológico de Monterrey – Campus Monterrey
 - Participation: Free, registration required
@@ -19,11 +19,11 @@ The event combines quantum computing fundamentals, guided theory, practical exam
 - November 4–6: Centro de Congresos, 2nd floor — Salas Ejecutivas 1, 2 & 3
 - November 7: Centro de Congresos, Tecnológico de Monterrey
 
-On Saturday, hackathon project presentations run from 10:00 AM to 12:00 PM, followed by the Quantum Computing and Technology Symposium from 12:00 PM to 6:30 PM.
+On Saturday, the Quantum Computing and Technology Symposium runs from 10:00 AM to 6:30 PM and includes the Qiskit Fall Fest hackathon project presentations from 10:00 AM to 12:00 PM.
 
 ## Organizing community
 
-The event is organized through Smart Electronics, IEEE Communications Society, IEEE-Eta Kappa Nu (IEEE-HKN) – Lambda Rho Chapter, Quantum Computing Club (QCC), and the IEEE Tecnológico de Monterrey Student Chapter.
+The event is organized through Smart Electronics, IEEE Communications Society – Monterrey Chapter, IEEE-Eta Kappa Nu (IEEE-HKN) – Tecnológico de Monterrey Lambda Rho Chapter, Quantum Computing Club (QCC), and the IEEE Tecnológico de Monterrey Student Chapter.
 
 ## Repository
 
