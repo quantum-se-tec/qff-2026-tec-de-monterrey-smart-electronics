@@ -863,6 +863,17 @@ footer strong {
   text-underline-offset: 3px;
 }
 
+.inline-link {
+  color: #0f62fe;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.inline-link:hover {
+  text-decoration-thickness: 2px;
+}
+
 /* Bottom navigation */
 .bottom-nav {
   justify-content: flex-end;
