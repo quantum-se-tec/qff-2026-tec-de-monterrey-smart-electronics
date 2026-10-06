@@ -17,9 +17,9 @@ The event combines quantum computing fundamentals, guided theory, practical exam
 
 - November 3: Biblioteca BI14-BI15
 - November 4–6: Centro de Congresos, 2nd floor — Salas Ejecutivas 1, 2 & 3
-- November 7: Centro de Congresos, Tecnológico de Monterrey
+- November 7: Centro de Congresos, Sala 1, Tecnológico de Monterrey
 
-On Saturday, the Quantum Computing and Technology Symposium runs from 10:00 AM to 6:30 PM and includes the Qiskit Fall Fest hackathon project presentations from 10:00 AM to 12:00 PM.
+On Saturday, Qiskit Fall Fest and The Quantum Lounge share a collaborative program at Centro de Congresos, Sala 1. The Qiskit Fall Fest Hackathon Showcase will take place from 10:00 AM to 11:00 AM, followed later by the winners announcement and Qiskit Fall Fest closing session from 5:00 PM to 6:00 PM.
 
 ## Organizing community
 
