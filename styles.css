@@ -878,3 +878,12 @@ footer strong {
 .bottom-nav {
   justify-content: flex-end;
 }
+
+#hackathon .hackathon-flow {
+  border-top: 1px solid var(--line);
+  color: var(--text);
+}
+
+#hackathon .hackathon-flow b {
+  color: var(--cyan);
+}
